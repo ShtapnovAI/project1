@@ -43,6 +43,6 @@ String choice = input.nextLine().trim();
 * [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus)
 * [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus "Нажми меня и изучай")
 
-## Оглавление: <a href="readme-top">На верх</a>
+## Оглавление: <a href="#readme-top">На верх</a>
 
 ###### Максимум 6 уровней заголовка
