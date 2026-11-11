@@ -51,11 +51,20 @@ String choice = input.nextLine().trim();
             }
 ```
 
+<p align="right"><a href="#readme-top">На верх</a></p>
+
 ## Ссылки:
 * <https://stepik.org/course/214865/syllabus>
 * [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus)
 * [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus "Нажми меня и изучай")
 
-## Оглавление: <a href="#readme-top">На верх</a>
+<p align="right">
+  <a href="#readme-top">На верх</a>
+</p>
 
+## Добавляем картинки:
+### Картинка:
+![Картинка](https://habrastorage.org/r/w1560/webt/nv/kd/ig/nvkdigwstxe5bufowlaosii1ica.jpeg)
+### Картинка ссылка:
+[![Картинка](https://habrastorage.org/r/w1560/webt/nv/kd/ig/nvkdigwstxe5bufowlaosii1ica.jpeg)](https://github.com)
 ###### Максимум 6 уровней заголовка
