@@ -37,4 +37,9 @@ String choice = input.nextLine().trim();
             }
 ```
 
+## Ссылки: 
+* <https://stepik.org/course/214865/syllabus>
+* [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus)
+* [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus "Нажми меня и изучай")
+
 ###### Максимум 6 уровней заголовка
